@@ -1,0 +1,346 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>麒麟小站</title>
+  
+  <subtitle>平行世界平凡角落</subtitle>
+  <link href="https://kylin-space.netlify.app/atom.xml" rel="self"/>
+  
+  <link href="https://kylin-space.netlify.app/"/>
+  <updated>2022-01-28T13:15:02.939Z</updated>
+  <id>https://kylin-space.netlify.app/</id>
+  
+  <author>
+    <name>Kylin</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>redis作为缓存遇到问题点</title>
+    <link href="https://kylin-space.netlify.app/2021/08/03/hou-duan/redis-zuo-wei-huan-cun-yu-dao-wen-ti-dian/"/>
+    <id>https://kylin-space.netlify.app/2021/08/03/hou-duan/redis-zuo-wei-huan-cun-yu-dao-wen-ti-dian/</id>
+    <published>2021-08-03T14:40:52.000Z</published>
+    <updated>2022-01-28T13:15:02.939Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;这篇文章由一篇面试题说起。。。&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;面试官问，如果线上redis挂了，所有请求都打到了数据库了，然后数据库也挂了。这时应该怎样恢复？&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h2 id=&quot;理解&quot;&gt;&lt;a href=&quot;#理解&quot;</summary>
+        
+      
+    
+    
+    
+    <category term="后端" scheme="https://kylin-space.netlify.app/categories/%E5%90%8E%E7%AB%AF/"/>
+    
+    
+    <category term="redis" scheme="https://kylin-space.netlify.app/tags/redis/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>有趣的位运算</title>
+    <link href="https://kylin-space.netlify.app/2021/07/23/suan-fa/you-qu-de-wei-yun-suan/"/>
+    <id>https://kylin-space.netlify.app/2021/07/23/suan-fa/you-qu-de-wei-yun-suan/</id>
+    <published>2021-07-23T00:50:12.000Z</published>
+    <updated>2022-01-28T13:15:02.940Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h2 id=&quot;两数交换-——-位运算实现&quot;&gt;&lt;a href=&quot;#两数交换-——-位运算实现&quot; class=&quot;headerlink&quot; title=&quot;两数交换 —— 位运算实现&quot;&gt;&lt;/a&gt;两数交换 ——</summary>
+        
+      
+    
+    
+    
+    <category term="算法" scheme="https://kylin-space.netlify.app/categories/%E7%AE%97%E6%B3%95/"/>
+    
+    
+    <category term="算法" scheme="https://kylin-space.netlify.app/tags/%E7%AE%97%E6%B3%95/"/>
+    
+    <category term="学习" scheme="https://kylin-space.netlify.app/tags/%E5%AD%A6%E4%B9%A0/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>杂七杂八瞎捣鼓</title>
+    <link href="https://kylin-space.netlify.app/2021/07/22/ge-ren-sui-bi/za-qi-za-ba-xia-dao-gu/"/>
+    <id>https://kylin-space.netlify.app/2021/07/22/ge-ren-sui-bi/za-qi-za-ba-xia-dao-gu/</id>
+    <published>2021-07-22T15:11:30.000Z</published>
+    <updated>2022-01-28T13:24:57.521Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h3 id=&quot;中间件&quot;&gt;&lt;a href=&quot;#中间件&quot; class=&quot;headerlink&quot; title=&quot;中间件&quot;&gt;&lt;/a&gt;中间件&lt;/h3&gt;&lt;p&gt;消息队列： Kafka/Rabbit MQ/Activi MQ/&lt;/p&gt;
+&lt;p&gt;缓存工具：Redis&lt;/p&gt;
+&lt;h3</summary>
+        
+      
+    
+    
+    
+    <category term="个人随笔" scheme="https://kylin-space.netlify.app/categories/%E4%B8%AA%E4%BA%BA%E9%9A%8F%E7%AC%94/"/>
+    
+    
+    <category term="瞎捣鼓" scheme="https://kylin-space.netlify.app/tags/%E7%9E%8E%E6%8D%A3%E9%BC%93/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>自我高估自制力良好</title>
+    <link href="https://kylin-space.netlify.app/2021/07/20/ge-ren-sui-bi/zi-wo-gao-gu-zi-zhi-li-liang-hao/"/>
+    <id>https://kylin-space.netlify.app/2021/07/20/ge-ren-sui-bi/zi-wo-gao-gu-zi-zhi-li-liang-hao/</id>
+    <published>2021-07-20T03:11:30.000Z</published>
+    <updated>2022-01-28T13:15:02.939Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;我好像从小到大，对自我都会很高估，总是认为自己能做出来多么多么了不起的事情来，看到那些由衷敬佩的先驱者们，我有的时候在读他们的传记或者故事时，竟然会时不时的认为自己也能做出那些。心比天高，到头来发现自己什么也不是，然后又对产生能力的怀疑。我就是在这种恶性循环里长大的。很讨厌</summary>
+        
+      
+    
+    
+    
+    <category term="个人随笔" scheme="https://kylin-space.netlify.app/categories/%E4%B8%AA%E4%BA%BA%E9%9A%8F%E7%AC%94/"/>
+    
+    
+    <category term="个人随笔" scheme="https://kylin-space.netlify.app/tags/%E4%B8%AA%E4%BA%BA%E9%9A%8F%E7%AC%94/"/>
+    
+    <category term="自制力" scheme="https://kylin-space.netlify.app/tags/%E8%87%AA%E5%88%B6%E5%8A%9B/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>读书大本营</title>
+    <link href="https://kylin-space.netlify.app/2021/07/03/du-shu-da-ben-ying/"/>
+    <id>https://kylin-space.netlify.app/2021/07/03/du-shu-da-ben-ying/</id>
+    <published>2021-07-03T02:44:19.000Z</published>
+    <updated>2022-01-28T13:15:02.941Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h3 id=&quot;Distributed-Algorithms-An-Intuitive-Approach&quot;&gt;&lt;a href=&quot;#Distributed-Algorithms-An-Intuitive-Approach&quot; class=&quot;headerlink&quot;</summary>
+        
+      
+    
+    
+    
+    <category term="读书大本营" scheme="https://kylin-space.netlify.app/categories/%E8%AF%BB%E4%B9%A6%E5%A4%A7%E6%9C%AC%E8%90%A5/"/>
+    
+    
+    <category term="读书" scheme="https://kylin-space.netlify.app/tags/%E8%AF%BB%E4%B9%A6/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>回溯算法实战系列之全排列问题</title>
+    <link href="https://kylin-space.netlify.app/2021/06/27/suan-fa/hui-su-suan-fa-shi-zhan-xi-lie-zhi-quan-pai-lie-wen-ti/"/>
+    <id>https://kylin-space.netlify.app/2021/06/27/suan-fa/hui-su-suan-fa-shi-zhan-xi-lie-zhi-quan-pai-lie-wen-ti/</id>
+    <published>2021-06-27T14:51:19.000Z</published>
+    <updated>2022-01-28T13:15:02.940Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h3 id=&quot;题目实例Ⅰ&quot;&gt;&lt;a href=&quot;#题目实例Ⅰ&quot; class=&quot;headerlink&quot; title=&quot;题目实例Ⅰ&quot;&gt;&lt;/a&gt;题目实例Ⅰ&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;784.</summary>
+        
+      
+    
+    
+    
+    <category term="算法" scheme="https://kylin-space.netlify.app/categories/%E7%AE%97%E6%B3%95/"/>
+    
+    
+    <category term="算法" scheme="https://kylin-space.netlify.app/tags/%E7%AE%97%E6%B3%95/"/>
+    
+    <category term="回溯算法" scheme="https://kylin-space.netlify.app/tags/%E5%9B%9E%E6%BA%AF%E7%AE%97%E6%B3%95/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>MySQL连表查询分组去重实例</title>
+    <link href="https://kylin-space.netlify.app/2021/06/27/hou-duan/mysql-lian-biao-cha-xun-fen-zu-qu-chong-shi-li/"/>
+    <id>https://kylin-space.netlify.app/2021/06/27/hou-duan/mysql-lian-biao-cha-xun-fen-zu-qu-chong-shi-li/</id>
+    <published>2021-06-27T14:48:52.000Z</published>
+    <updated>2022-01-28T13:15:02.939Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h2 id=&quot;业务逻辑&quot;&gt;&lt;a href=&quot;#业务逻辑&quot; class=&quot;headerlink&quot; title=&quot;业务逻辑&quot;&gt;&lt;/a&gt;业务逻辑&lt;/h2&gt;&lt;p&gt;通过多种渠道将小程序的活动页链接发布出去，比如通过多多种短信附带链接( channel 就记为</summary>
+        
+      
+    
+    
+    
+    <category term="后端" scheme="https://kylin-space.netlify.app/categories/%E5%90%8E%E7%AB%AF/"/>
+    
+    
+    <category term="MySQL" scheme="https://kylin-space.netlify.app/tags/MySQL/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>快速排序</title>
+    <link href="https://kylin-space.netlify.app/2021/06/20/suan-fa/kuai-su-pai-xu/"/>
+    <id>https://kylin-space.netlify.app/2021/06/20/suan-fa/kuai-su-pai-xu/</id>
+    <published>2021-06-20T08:49:11.000Z</published>
+    <updated>2022-01-28T13:15:02.940Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;快速排序算法由 C. A. R. Hoare 在 1960 年提出。它的时间复杂度也是</summary>
+        
+      
+    
+    
+    
+    <category term="算法" scheme="https://kylin-space.netlify.app/categories/%E7%AE%97%E6%B3%95/"/>
+    
+    
+    <category term="算法" scheme="https://kylin-space.netlify.app/tags/%E7%AE%97%E6%B3%95/"/>
+    
+    <category term="排序" scheme="https://kylin-space.netlify.app/tags/%E6%8E%92%E5%BA%8F/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>桶排序入门</title>
+    <link href="https://kylin-space.netlify.app/2021/06/19/suan-fa/tong-pai-xu-jie-shao/"/>
+    <id>https://kylin-space.netlify.app/2021/06/19/suan-fa/tong-pai-xu-jie-shao/</id>
+    <published>2021-06-19T06:48:11.000Z</published>
+    <updated>2022-01-28T13:15:02.941Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h2 id=&quot;原理&quot;&gt;&lt;a href=&quot;#原理&quot; class=&quot;headerlink&quot;</summary>
+        
+      
+    
+    
+    
+    <category term="算法" scheme="https://kylin-space.netlify.app/categories/%E7%AE%97%E6%B3%95/"/>
+    
+    
+    <category term="算法" scheme="https://kylin-space.netlify.app/tags/%E7%AE%97%E6%B3%95/"/>
+    
+    <category term="排序" scheme="https://kylin-space.netlify.app/tags/%E6%8E%92%E5%BA%8F/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>922. 按奇偶排序数组II</title>
+    <link href="https://kylin-space.netlify.app/2021/06/19/suan-fa/922.an-qi-ou-pai-xu-shu-zu-ii/"/>
+    <id>https://kylin-space.netlify.app/2021/06/19/suan-fa/922.an-qi-ou-pai-xu-shu-zu-ii/</id>
+    <published>2021-06-19T03:50:12.000Z</published>
+    <updated>2022-01-28T13:15:02.939Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;给定一个非负整数数组 A， A 中一半整数是奇数，一半整数是偶数。&lt;/p&gt;
+&lt;p&gt;对数组进行排序，以便当 A[i] 为奇数时，i 也是奇数；当 A[i] 为偶数时， i</summary>
+        
+      
+    
+    
+    
+    <category term="算法" scheme="https://kylin-space.netlify.app/categories/%E7%AE%97%E6%B3%95/"/>
+    
+    
+    <category term="算法" scheme="https://kylin-space.netlify.app/tags/%E7%AE%97%E6%B3%95/"/>
+    
+    <category term="刷题" scheme="https://kylin-space.netlify.app/tags/%E5%88%B7%E9%A2%98/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>冒泡排序</title>
+    <link href="https://kylin-space.netlify.app/2021/06/19/suan-fa/mou-pao-pai-xu/"/>
+    <id>https://kylin-space.netlify.app/2021/06/19/suan-fa/mou-pao-pai-xu/</id>
+    <published>2021-06-19T03:13:30.000Z</published>
+    <updated>2022-01-28T13:15:02.940Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;blockquote&gt;
+&lt;p&gt;“冒泡排序法除了它迷人的名字和导致了某些有趣的理论问题这一事实外，似乎没有什么值得推荐的。”  ———— Donald E. Knuth（1974 年图灵奖获得者）&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&lt;img</summary>
+        
+      
+    
+    
+    
+    <category term="算法" scheme="https://kylin-space.netlify.app/categories/%E7%AE%97%E6%B3%95/"/>
+    
+    
+    <category term="算法" scheme="https://kylin-space.netlify.app/tags/%E7%AE%97%E6%B3%95/"/>
+    
+    <category term="排序" scheme="https://kylin-space.netlify.app/tags/%E6%8E%92%E5%BA%8F/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>选择排序</title>
+    <link href="https://kylin-space.netlify.app/2021/06/19/suan-fa/xuan-ze-pai-xu/"/>
+    <id>https://kylin-space.netlify.app/2021/06/19/suan-fa/xuan-ze-pai-xu/</id>
+    <published>2021-06-19T03:11:30.000Z</published>
+    <updated>2022-01-28T13:15:02.941Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;相对于冒泡排序，选择排序多一个变量，专门存储最小值、最大值的下标，等每轮次循环遍历结束后，才会进行两个元素的交换。这样比冒泡排序减少了交换次数。&lt;/p&gt;
+&lt;p&gt;&lt;img</summary>
+        
+      
+    
+    
+    
+    <category term="算法" scheme="https://kylin-space.netlify.app/categories/%E7%AE%97%E6%B3%95/"/>
+    
+    
+    <category term="算法" scheme="https://kylin-space.netlify.app/tags/%E7%AE%97%E6%B3%95/"/>
+    
+    <category term="排序" scheme="https://kylin-space.netlify.app/tags/%E6%8E%92%E5%BA%8F/"/>
+    
+  </entry>
+  
+</feed>
